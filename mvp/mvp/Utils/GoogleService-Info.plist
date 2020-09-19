@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>630039339675-m4co36blbpkil66fq9vqeng2t0vku76k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630039339675-m4co36blbpkil66fq9vqeng2t0vku76k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVZzAjOIDV_X_usg08G-Dx_bGV1K0eMu8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630039339675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cloud.IdeaList</string>
+	<key>PROJECT_ID</key>
+	<string>mvp-ideas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mvp-ideas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630039339675:ios:d5f2272fff5208a5fbdc3e</string>
+	<key>DATABASE_URL</key>
+	<string>https://mvp-ideas.firebaseio.com</string>
+</dict>
+</plist>
