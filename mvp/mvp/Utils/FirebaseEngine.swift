@@ -54,7 +54,7 @@ class FirebaseEngine {
     func removeTask(_ task: Idea, success: @escaping () -> Void, fail: @escaping () -> Void) {
        if let taskID = task.id {
          db.collection(database).document(taskID).delete { (error) in
-           if let error = error {
+           if let _ = error {
             fail()
            }
          }
